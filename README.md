@@ -1,3 +1,6 @@
+modifications: added yolov5-ifier.py script (and vid_to_frames.py) for converting the dataset into yolov5 format.
+
+
 # Anti-Unmanned Aerial Vehicle (UAV)
 * This work was done during Jian Zhao served as an assistant professor at Institute of North Electronic Equipment, Beijing, China.
 
